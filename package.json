@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/jlarky.lumeelement-m4wd5ha7-fork-m4wdcos4",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve XfuJq0FFbSVvMFvrltmq --open"
+  }
+}

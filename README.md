@@ -1,2 +1,5 @@
-# webcomponents-starter
-Created with WebComponents.dev
+# Lift HTML Starter Kit
+
+### Links
+
+- [GitHub](https://github.com/JLarky/lift-html)

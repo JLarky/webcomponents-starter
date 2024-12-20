@@ -1,0 +1,22 @@
+{
+  "parserOpts": {
+    "strictMode": true
+  },
+  "plugins": [
+    [
+      "@babel/plugin-proposal-class-properties",
+      {
+        "loose": false
+      }
+    ]
+  ],
+  "presets": [
+    [
+      "typescript",
+      {
+        "isTSX": true,
+        "allExtensions": true
+      }
+    ]
+  ]
+}
