@@ -32,7 +32,6 @@ liftHtml('my-counter', {
 		  <span>${count}</span>
 		  <button onClick=${() => setCount(count() + 1)}>+</button>
 		`
-		this.attachShadow( {mode: 'open' });
-		render(App, this.shadowRoot)
+		render(App, this.shadowRoot || this.attachShadow( {mode: 'open' }));
 	}
 })
